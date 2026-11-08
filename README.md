@@ -3,13 +3,20 @@
 ![Static Badge](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
 
 
-A simple task manager built with python
+A simple task manager built with Python
 
 # Features
 - add multiple tasks
 - save tasks
 - load seved tasks
 - admin mode
+- set task priority
+
+## Task Priority
+each task can have one of these priority levels:
+- low
+- medium
+- high
 
 ## Requirments
 - Python
@@ -51,14 +58,14 @@ admin_pass=your_password_here
 
 replace `your_password_here` with yuor own admin password
 
-## run the program
+## Run the Program
 run the main file:
 ```bash
 python main.py
 ```
 
 ## Screenshot
-![personal_task_manager_screenshot](images\screenshot.png)
+![personal_task_manager_screenshot](images\Screenshot.png)
 
 ## Demo
 ![personal_task_manager_demot](images\Animation.gif)
