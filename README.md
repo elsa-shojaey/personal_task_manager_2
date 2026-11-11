@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
 
 
-A simple task manager built with Python
+A simple task manager built with Python for learning git and github
 
 # Features
 - add multiple tasks
@@ -42,7 +42,7 @@ personal_task_manager_22/
 Install the required packages:
 
 ```bash
-python -m pip -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Enviroment setup
