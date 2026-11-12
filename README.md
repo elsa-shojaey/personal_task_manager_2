@@ -42,7 +42,7 @@ personal_task_manager_22/
 Install the required packages:
 
 ```bash
-python -m pip -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Enviroment setup
