@@ -3,7 +3,10 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 name = input("enter your name: ")
-print("Hello", name, "welcome to personal task manager")
+
+
+print("welcome back", name)
+
 
 admin_mode = input("do you want to enter admin mode (yes/no)? ")
 if admin_mode == "yes":
